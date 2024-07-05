@@ -11,7 +11,6 @@ class Program
         Random rand = new Random();
         LinkedList<int> lista1 = new LinkedList<int>();
         LinkedList<int> lista2 = new LinkedList<int>();
-
         for (int i = 0; i < cantidad; i++){
             lista1.AddLast(rand.Next(1, 100)); 
             lista2.AddLast(rand.Next(1, 100));
@@ -34,16 +33,16 @@ class Program
 
     static void Listita(LinkedList<int> lista, List<int> primos, List<int> perfectos, List<int> otros){
         foreach (int num in lista){
-            if (EsPrimo(num))
+            if (Primo(num))
                 primos.Add(num);
-            else if (EsPerfecto(num))
+            else if (Perfecto(num))
                 perfectos.Add(num);
             else
                 otros.Add(num);
         }
     }
 
-    static bool EsPrimo(int num){
+    static bool Primo(int num){
         if (num <= 1) return false;
         if (num == 2) return true;
         if (num % 2 == 0) return false;
@@ -54,7 +53,7 @@ class Program
         return true;
     }
 
-    static bool EsPerfecto(int num)
+    static bool Perfecto(int num)
     {
         if (num < 1) return false;
         int suma = 0;
