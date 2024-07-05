@@ -4,6 +4,7 @@ class Program
 {
     static void Main(){
         int N;
+
         Console.Write("Ingrese el tamaño de la matriz (N x N): ");
         N = int.Parse(Console.ReadLine());
         int[,] matriz1 = new int[N, N];
