@@ -1,0 +1,15 @@
+/home/jorge/Documentos/FILE/SEMESTRE_1_2024/AC_TEC/revalida/Examen_Revalida/ProblemB/bin/Debug/net8.0/ProblemB
+/home/jorge/Documentos/FILE/SEMESTRE_1_2024/AC_TEC/revalida/Examen_Revalida/ProblemB/bin/Debug/net8.0/ProblemB.deps.json
+/home/jorge/Documentos/FILE/SEMESTRE_1_2024/AC_TEC/revalida/Examen_Revalida/ProblemB/bin/Debug/net8.0/ProblemB.runtimeconfig.json
+/home/jorge/Documentos/FILE/SEMESTRE_1_2024/AC_TEC/revalida/Examen_Revalida/ProblemB/bin/Debug/net8.0/ProblemB.dll
+/home/jorge/Documentos/FILE/SEMESTRE_1_2024/AC_TEC/revalida/Examen_Revalida/ProblemB/bin/Debug/net8.0/ProblemB.pdb
+/home/jorge/Documentos/FILE/SEMESTRE_1_2024/AC_TEC/revalida/Examen_Revalida/ProblemB/obj/Debug/net8.0/ProblemB.GeneratedMSBuildEditorConfig.editorconfig
+/home/jorge/Documentos/FILE/SEMESTRE_1_2024/AC_TEC/revalida/Examen_Revalida/ProblemB/obj/Debug/net8.0/ProblemB.AssemblyInfoInputs.cache
+/home/jorge/Documentos/FILE/SEMESTRE_1_2024/AC_TEC/revalida/Examen_Revalida/ProblemB/obj/Debug/net8.0/ProblemB.AssemblyInfo.cs
+/home/jorge/Documentos/FILE/SEMESTRE_1_2024/AC_TEC/revalida/Examen_Revalida/ProblemB/obj/Debug/net8.0/ProblemB.csproj.CoreCompileInputs.cache
+/home/jorge/Documentos/FILE/SEMESTRE_1_2024/AC_TEC/revalida/Examen_Revalida/ProblemB/obj/Debug/net8.0/ProblemB.sourcelink.json
+/home/jorge/Documentos/FILE/SEMESTRE_1_2024/AC_TEC/revalida/Examen_Revalida/ProblemB/obj/Debug/net8.0/ProblemB.dll
+/home/jorge/Documentos/FILE/SEMESTRE_1_2024/AC_TEC/revalida/Examen_Revalida/ProblemB/obj/Debug/net8.0/refint/ProblemB.dll
+/home/jorge/Documentos/FILE/SEMESTRE_1_2024/AC_TEC/revalida/Examen_Revalida/ProblemB/obj/Debug/net8.0/ProblemB.pdb
+/home/jorge/Documentos/FILE/SEMESTRE_1_2024/AC_TEC/revalida/Examen_Revalida/ProblemB/obj/Debug/net8.0/ProblemB.genruntimeconfig.cache
+/home/jorge/Documentos/FILE/SEMESTRE_1_2024/AC_TEC/revalida/Examen_Revalida/ProblemB/obj/Debug/net8.0/ref/ProblemB.dll
